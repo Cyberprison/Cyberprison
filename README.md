@@ -3,12 +3,38 @@
 </div>
 
 <h2>Stack</h2>
-<h3>MERN</h3>
+<p style="text-align:center; font-size:50px; font-weight:600; letter-spacing: 10px">MERN</p>
 
-<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="50px"></a>
-<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="50px"></a>
-<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50px"></a>
-<a><img src="./img/noda_js_mini.jpg" width="45px"></a>
+<div style="display:flex; justify-content:center;">
+  <div style="margin-right: 20px;">
+    <img 
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" 
+        width="100px">
+    <p style="text-align:center; font-weight:600;">mongoDB</p>
+  </div>
+  <div style="margin-right: 20px;">
+    <img 
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"
+      width="100px">
+    <p style="text-align:center; font-weight:600;">express js</p>
+  </div>
+  <div style="margin-right: 20px;">
+    <img 
+      src="./img/react.jpg" 
+      width="115px"
+      style="object-fit: cover;">
+    <p style="text-align:center; font-weight:600;">react js</p>
+  </div>
+  <div>
+    <img 
+      src="./img/noda_js_mini.jpg" 
+      width="90px">
+    <p style="text-align:center; font-weight:600;">node js</p>
+  </div>
+</div>
+
+
+
 
 <!--
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="50px"></a>
@@ -34,5 +60,21 @@
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" width="50px"></a>
 -->
 
+<h3>Web3</h3>
 
-
+<a><img 
+  src="img\web3js.png" 
+  width="50px"></a>
+<a><img 
+  src="img\ethersjs.png" 
+  width="50px"  
+  style="margin:0 10"></a>
+<a><img 
+  src="img\ethereum.png" 
+  height="50px"></a>
+<a><img 
+  src="img\solidity.jpg" 
+  width="50px"></a>
+<a><img 
+  src="img\hardhat.png" 
+  width="50px"></a>
